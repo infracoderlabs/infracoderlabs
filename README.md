@@ -1,46 +1,47 @@
-# Infraflow Labs
+# Infracoders Labs
 
-Welcome to **Infraflow Labs**, where we seamlessly integrate automation, cloud, and infrastructure monitoring to help organizations scale efficiently. Our open-source tools and services are designed to simplify infrastructure workflows, enhance network automation, and ensure robust cloud infrastructure management.
+Welcome to **Infracoders Labs**, where coding meets infrastructure! We specialize in automating, optimizing, and scaling infrastructure with modern DevOps practices. Our goal is to empower developers and operations teams by providing open-source tools and best practices that make cloud, network, and system management a breeze.
 
 ## 🚀 What We Do
 
-At Infraflow Labs, we focus on providing cutting-edge solutions for:
+At Infracoders Labs, we offer innovative solutions in:
 
-- **Network Automation**: Streamline your network management using Ansible, nornir,  Network SoT, and GitOps practices.
-- **Cloud Infrastructure**: Deploy, monitor, and manage cloud environments efficiently using AWS, Docker, and Kubernetes.
-- **Monitoring & Observability**: Gain deep insights into your infrastructure with Prometheus, Thanos, Grafana, and Telegraf.
-- **CI/CD Pipelines**: Implement robust continuous integration and delivery pipelines tailored to your needs.
+- **Infrastructure as Code (IaC)**: Automate the provisioning and management of infrastructure using tools like Terraform and AWS CloudFormation.
+- **Cloud Automation**: Simplify cloud management with scalable solutions for AWS, Azure, and Google Cloud.
+- **Network Automation**: Manage complex network infrastructures effortlessly using Ansible, Infrahub, and other open-source tools.
+- **Monitoring & Observability**: Gain visibility into your infrastructure’s health using Prometheus, Grafana, Thanos, and Telegraf.
+- **CI/CD Pipelines**: Implement robust, automated pipelines for continuous integration and deployment.
 
 ## 🔧 Technologies We Use
 
-We leverage the power of leading automation and cloud technologies, including:
+At Infracoders Labs, we work with a wide array of cutting-edge tools, including:
 
-- **Ansible**: Automate your network configurations and cloud provisioning.
-- **Infrahub**: Manage and visualize your network data with this open-source network automation platform.
-- **Docker & Kubernetes**: Build, deploy, and scale applications using containerized environments.
-- **Prometheus & Grafana**: Monitor your infrastructure, create dashboards, and get real-time alerts.
+- **Terraform & CloudFormation**: Automate and manage cloud infrastructure.
+- **Ansible & Infrahub**: Manage and automate network configurations.
+- **Docker & Kubernetes**: Build and manage containerized environments for scalable apps.
+- **Prometheus & Grafana**: Real-time monitoring and visualization for infrastructure metrics.
 
 ## 💻 Projects
 
-Here's a list of some of our key projects:
+Some of the key projects from Infracoders Labs include:
 
-1. **Network Automation with Ansible**: A repository that automates network configurations using Ansible playbooks.
-2. **Terraform templates**: Reusable templates to launch AWS resources used by the the Framework.
-3. **Prometheus Monitoring Stack**: A complete setup for monitoring cloud-native applications with Prometheus and Grafana.
+1. **IaC Templates for AWS**: Reusable Terraform and CloudFormation templates to spin up AWS environments.
+2. **Ansible Network Automation**: A set of playbooks to automate common network tasks using Ansible.
+3. **Full Monitoring Stack**: A Prometheus and Grafana stack for real-time monitoring and alerting.
 
 ## 📖 Documentation
 
-Check out our [Wiki](https://github.com/infraflowlabs/wiki) for detailed setup guides, troubleshooting tips, and best practices for using our tools and services.
+For detailed guides, examples, and troubleshooting tips, check out our [Wiki](https://github.com/infracoderslabs/wiki). You'll find step-by-step instructions to get started with our tools and services.
 
 ## 💬 Get Involved
 
-We encourage community contributions! Feel free to submit issues or pull requests if you have ideas for improvements or bug fixes. Join the conversation in our [Slack channel](https://infraflowlabs.slack.com) or follow us on Twitter for the latest updates.
+We love collaborating with the community! Feel free to open issues, contribute to our repositories, or suggest new ideas. You can also join the conversation on our [Slack channel](https://infracoderslabs.slack.com) or follow us on social media for updates.
 
 ## 📝 License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ---
 
-🔗 **Infraflow Labs - Automating the Future of Infrastructure**  
-*Empowering teams with tools for next-gen cloud and network automation.*
+🔗 **Infracoders Labs - Code Your Infrastructure**  
+*Building smarter infrastructure with code and automation.*
